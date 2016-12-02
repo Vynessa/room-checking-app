@@ -1,0 +1,22 @@
+{
+  "name": "room-checking-app",
+  "version": "1.0.0",
+  "description": "This is an application that enables Andelans find rooms for different activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vynessa/room-checking-app.git"
+  },
+  "author": "\u001b[A\u001b[C room\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Uloaku Enyingwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vynessa/room-checking-app/issues"
+  },
+  "homepage": "https://github.com/Vynessa/room-checking-app#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
